@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Attelisya
 - 👀 I’m interested in videogames, programming
-- 🌱 I’m currently learning Java
 
 <!---
 Attelisya/Attelisya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

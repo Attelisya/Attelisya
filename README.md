@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Attelisya
-- 👀 I’m interested in videogames, programming
-- I study at School 21, my nickname is shockpea
+# Attelisya
+
+- 🎯 **Mission:** Write code that doesn't crash. Sometimes.
+- 🏫 **Guild:** School 21 (Ecole 42 ecosystem)
+- 🎲 **Passion:** Debugging life like a side-scroller game.
+- 📍 **Status:** `while (alive) { learn(); game(); code(); }`
 
 <!---
 Attelisya/Attelisya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
